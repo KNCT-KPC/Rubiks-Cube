@@ -1,4 +1,4 @@
-# Rubik-sCube
+# Rubiks-Cube
 
 ## 概要
 Unityのルービックキューブのシミュレーションモデルです。
